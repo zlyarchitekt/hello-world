@@ -1,5 +1,6 @@
 # hello-world
-Starter
+### Starter - test of basic writing and formatting syntax
 
-This is a test massage in readme.md file.
+## Second Headings
+### This is a test massage in readme.md file.
 Over and out.
